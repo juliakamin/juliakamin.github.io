@@ -27,6 +27,8 @@ latest_posts:
 
 Hello. I'm  a researcher who works with organizations that leverage social science to foster social cohesion both on and off line. 
 
-Today, I spend most of my time as the Managing Director of [Prosocial Design Network](https://www.prosocialdesign.org/), a nonprofit that promotes healthy online spaces by connecting research to practice. I'm also a research consultant with [Civic Health Project](https://www.civichealthproject.org/), where I help organizations that are working to bridge divides in the US measure their impact.  
+Today, I spend most of my time as the Managing Director of [Prosocial Design Network](https://www.prosocialdesign.org/), a nonprofit that promotes healthy online spaces by connecting research to practice. I'm also a research consultant with [Civic Health Project](https://www.civichealthproject.org/), where I help organizations that are bridging divides [measure their impact](https://www.listenfirstproject.org/goals-and-measures).  
 
-I'm passionate about making research relevant, connecting researchers and practitioners to both translate research to practice but also catalyze more practice-informed research. If you're on that same path, let's talk.
+I'm passionate about making research relevant, connecting researchers and practitioners to both translate research to practice but also catalyze more practice-informed research. If you're on that same path, let's talk.  
+
+julia [at] prosocialdesign [dot] org
