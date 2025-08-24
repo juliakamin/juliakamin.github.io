@@ -6,7 +6,7 @@ subtitle: connecting prosocial research to practice
 
 profile:
   align: right
-  image: julia headshot 2021 gray.jpg
+  image: julia_headshot_2021_gray.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
